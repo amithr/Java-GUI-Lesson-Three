@@ -11,7 +11,7 @@ package com.mycompany.lessonthree;
 public class LessonThree {
 
     public static void main(String[] args) {
-        UserForm form = new UserForm();
+        UserFormUpgraded form = new UserFormUpgraded();
         form.setVisible(true);
     }
 }
